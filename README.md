@@ -26,9 +26,9 @@ output generation → Writing final machine code and metadata
 tests/*.as → Input test files for validation
 
 ## Educational Goals
-Understand how two-pass assembly works
-Practice memory management in C
-Gain experience building compilers and preprocessors
+Understand how two-pass assembly works,
+Practice memory management in C,
+Gain experience building compilers and preprocessors,
 
 
 
