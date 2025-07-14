@@ -1,4 +1,3 @@
-# -AsmulatorAssembly_Language_Simulator
 #  Asmulator - Assembly Language Simulator
 
 A simple yet powerful tool that simulates how an assembler processes code into machine-level output.  
