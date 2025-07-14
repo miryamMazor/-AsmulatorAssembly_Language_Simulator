@@ -17,13 +17,13 @@ This project was created as part of my academic studies in computer engineering.
 ---
 ## 📂 Project Structure
 
-main.c → Main entry point
-first_pass.c → First scan to gather symbols and macros
-second_pass.c → Resolves instructions and addresses
-label_table.c → Symbol table handling
-macro expansion → Pre-processing macros (.am → .as)
-output generation → Writing final machine code and metadata
-tests/*.as → Input test files for validation
+* main.c → Main entry point
+* first_pass.c → First scan to gather symbols and macros
+* second_pass.c → Resolves instructions and addresses
+* label_table.c → Symbol table handling
+* macro expansion → Pre-processing macros (.am → .as)
+* output generation → Writing final machine code and metadata
+* tests/*.as → Input test files for validation
 
 ## Educational Goals
 Understand how two-pass assembly works,
